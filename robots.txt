@@ -1,0 +1,19 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://rahulanuofficial-amp.github.io/sitemap.xml
+
+Crawl-delay: 5
+
+Disallow: /private/
+
+Disallow: /temp/
+
+Disallow: /.git/
+
+Disallow: /.github/
+
+Disallow: /node_modules/
+
+Disallow: /README.md
